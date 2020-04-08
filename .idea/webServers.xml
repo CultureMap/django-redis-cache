@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94d3c4cb-7825-48e0-a177-a435a9ffc0be" name="django-redis-cache" url="http://52.87.193.140">
+        <fileTransfer host="52.87.193.140" port="22" privateKey="C:\dev\seth-lightsail-cloud-dev.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
